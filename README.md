@@ -40,4 +40,4 @@ A full system to manage client registrations, monthly payments, reporting, and a
 
 ---
 
-⚡ **Fun fact:** I love building systems that solve *real problems* — from managing service desks to running a funeral parlor business!  
+⚡ **Fun fact:** I love building systems that solve *real problems*!  
